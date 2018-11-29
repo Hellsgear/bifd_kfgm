@@ -1,0 +1,15 @@
+first test
+
+module 1
+
+module 2
+
+	function 1:
+	function 2:
+
+	missing function 3 here:
+
+	error function 4:
+		not used and not tested
+
+
