@@ -5,9 +5,16 @@ module 1
 module 2
 
 	function 1:
+
+	FUNCTION 1 IMPLEMENTED
+
 	function 2:
 
+	FUNKTION 2 IMPLEMENTED
+
 	missing function 3 here:
+
+	//TODO - Function 3 and 4
 
 	error function 4:
 		not used and not tested
